@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuel-gerard&count_private=true&show_icons=true&theme=dracula)]
+![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuel-gerard&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **samuel-gerard/samuel-gerard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
