@@ -1,5 +1,5 @@
-<!--
 # Hi there :wave:
+<!--
 ![Samuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuelgerard&layout=compact)
 -->
 <!--
